@@ -1,0 +1,6 @@
+{
+    "environment": "production",
+    "db_host": "db.prod.aws.amazon.com",
+    "db_port": 5432,
+    "max_retries": 5
+}
