@@ -1,5 +1,6 @@
 import os
 import json
+import sys
 
 # Check if config.json exists before trying to open it
 config_file = 'DevOps_Journey/config.json'
